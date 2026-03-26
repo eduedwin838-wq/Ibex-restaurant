@@ -1,0 +1,28 @@
+.make reservation{
+    position: relative;
+    top: 100px;
+    left: 60px;
+}
+.popular_list{
+    display: inline-block;
+    text-align: left;
+}
+.popular items{
+
+}
+body{
+    background-color: lightpink;
+}
+nav ul {
+    list-style-type: none;
+    font-display: flex;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0%;
+    background-color: white;
+    
+}
